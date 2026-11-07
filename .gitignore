@@ -1,0 +1,17 @@
+bin/
+obj/
+publish/
+AppPackages/
+BundleArtifacts/
+*.msix
+*.msixbundle
+*.nupkg
+
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+*.log
